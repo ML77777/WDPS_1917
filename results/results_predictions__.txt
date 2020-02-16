@@ -1,0 +1,9 @@
+Finished in 3750 seconds 
+Gold entities: 886
+Linked entities: 37904
+Amount of mappings: 731
+Correct mappings: 399
+Amount of incorrect: mappings: 332
+Precision: 0.010526593499366821
+Recall: 0.4503386004514673
+F1: 0.020572312451662803
